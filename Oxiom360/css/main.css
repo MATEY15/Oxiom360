@@ -90,7 +90,7 @@ button{
 	height: 105px;
 	padding-top: 5px;
 	border-bottom: 4px solid #f59300;
-	position: absolute;
+	position: fixed;
 	top: 0;
 	left: 0;
 	width: 100%;
